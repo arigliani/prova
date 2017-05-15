@@ -16,5 +16,5 @@ function risultato(){
 	if(a== "quoziente"){
 		document.f.somma.value=parseFloat(document.f.primo.value)/parseFloat(document.f.secondo.value);
 	}
-	
+	//ho aggiunto un commento
 }
